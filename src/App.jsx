@@ -1,5 +1,5 @@
 import NewProject from "./components/NewProject";
-import ProjectSidebar from "./components/ProjectsSidebae";
+import ProjectSidebar from "./components/ProjectsSidebar";
 
 function App() {
   return (
